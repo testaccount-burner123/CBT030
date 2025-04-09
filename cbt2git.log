@@ -1,6 +1,6 @@
-2025-04-08 22:27:45.316602 - Received CBT.V508.FILE030.PDS from FILE030.XMI 
-2025-04-08 22:27:45.318270 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$#DATE
-2025-04-08 22:27:45.318890 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$DOC
-2025-04-08 22:27:45.319531 - Found @FILE030.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/@FILE030
-2025-04-08 22:27:45.320110 - Found NPFKU01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKU01
-2025-04-08 22:27:45.320685 - Found NPFKX01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKX01
+2025-04-09 15:18:06.905968 - Received CBT.V508.FILE030.PDS from FILE030.XMI 
+2025-04-09 15:18:06.919757 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$#DATE
+2025-04-09 15:18:06.920470 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$DOC
+2025-04-09 15:18:06.921105 - Found @FILE030.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/@FILE030
+2025-04-09 15:18:06.921695 - Found NPFKU01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKU01
+2025-04-09 15:18:06.922319 - Found NPFKX01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKX01
